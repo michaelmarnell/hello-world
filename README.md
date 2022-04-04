@@ -1,7 +1,7 @@
 # hello-world
 Learning and using the basics in GitHub
 
-**Michael Marnell*
+**Michael Marnell**
 
 1. Michael
 2. Anthony
